@@ -1,0 +1,18 @@
+Variable. Una variable es una etiqueta que le asignamos a un espacio en la memoria de la computadora.
+    Este espacio puede ser ocupado por diferentes objetos como texto (strings), números, valores booleanos
+    o funciones. 
+String. Una string es un tipo de información que la computadora interpreta como texto. Como tal, no puede
+    usarla como valor numérico o booleano. Para crear una string, basta con encerrar un pedazo de texto entre
+    comillas dobles (" ") o sencillas (' '). 
+Función. Una función es un conjunto de instrucciones específicas que el usuario crea para la computadora.
+    Las funciones pueden ser almacenadas en una variable y pueden ser llamadas en cualquier momento dentro
+    del programa en el que fueron creadas. Cada una de las instrucciones que contienen la función es llamada
+    'argumento'. Al final de los argumentos, la función debe devolver un valor por medio del comando return.
+Declaraciones 'if'. Una declaración es una instrucción que realiza una acción específica. Las declaraciones o
+    'statements' no devuelven un valor. Dentro de las declaraciones están las condicionales 'if'. Este tipo de
+    instrucción somete un dato a una prueba comparativa mediante operadores como <, >, <=, >=, ===. !==. El 
+    resultado de esta prueba determinará cuál es el siguiente paso en el programa. Pueden tener una o varias
+    condiciones (if else). 
+Valores booleanos ('true', 'false'). Los valores booleanos son otro de los tipos de dato básicos que manejan 
+    las computadoras y los programas. Provienen del sistema binario en el que las computadoras sólo son capaces
+    de procesar dos estados de información (abierto o cerrado, prendido o apagado, verdadero o falso, 1 o 0). 
