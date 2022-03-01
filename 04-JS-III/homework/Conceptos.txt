@@ -1,0 +1,10 @@
+JS-III
+Arrays = Los *arrays* o arreglos son listas. Estas listas pueden contener lo que sea, cualquier tipo de dato válido dentro de JavaScript. 
+    Para crear una lista, basta con nombrarla de la misma forma que uno nombra una variable y agregar los elementos que la conforman usando
+    corchetes para marcar su inicio y su fin '[]'. Dentro, cada elemento está separado por una coma. 
+    Los arrays son útiles para mantener un registro ordenado de elementos. Es fácil acceder a estos elementos ya que cada uno de ellos está
+    marcado por un índice numérico. El primer elemento recibe el número 0, el segundo el 1, el tercero el 2 y así sucesivamente. Para acceder,
+    modificar o eliminar un elemento basta con escribir el nombre del arreglo e indicar, entre corchetes, el índice que corresponde al elemento
+    deseado. 
+    Esta propiedad hace que sea fácil recorrer todo el arreglo mediante un bucle. El bucle iniciará en el primer, o cualquier otro, elemento y
+    leerá cada índice de la lista en orden hasta que termine o hasta que reciba una instrucción para parar. 
